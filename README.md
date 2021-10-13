@@ -14,9 +14,8 @@ In your dart file, import the library:
 import 'package:list_positioned_scroll_button/list_positioned_scroll_button.dart';
  ``` 
 
-Create a Scrollable Positioned List and change its```Dart itemscrollcontroller  ```  to
-```Dart ListPositionedScrollButton.itemscrollcontroller ```Dart
-
+Create a Scrollable Positioned List and change its```itemscrollcontroller```  to
+```ListPositionedScrollButton.itemscrollcontroller```
  ```Dart
 ScrollablePositionedList.builder(
                     scrollDirection: Axis.horizontal,
