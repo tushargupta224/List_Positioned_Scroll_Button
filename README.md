@@ -8,7 +8,6 @@ Control Scroll of Scrollable Positioned List with Next and Previous button in Fl
 
 Scroll for pageitemcount:8
 
-![image](flutter_list_positioned_scroll_button.gif)
 
 #### Highlight - 
 
