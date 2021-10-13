@@ -19,8 +19,11 @@ A full example can be found in the examples.
 
 ## Getting Started
 
+Add list_positioned_scroll_button in your pubspec.yaml,
+
 ```yaml
- list_positioned_scroll_button: ^0.0.1
+  dependencies:
+     list_positioned_scroll_button: ^0.0.1
  ```
 
 In your dart file, import the library:
