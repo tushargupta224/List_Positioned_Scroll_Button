@@ -1,6 +1,19 @@
-# list_positioned_scroll_button
+#list_positioned_scroll_button
 
-Control Scroll of Scrollable Positioned List with Next and Previous button.
+Control Scroll of Scrollable Positioned List with Next and Previous button in Flutter. Based on [scrollable_positioned_list](https://pub.dev/packages/scrollable_positioned_list).
+
+![image](flutter_list_positioned_scroll_button.gif)
+
+#### Highlight - 
+
+Easy Scroll to next and previous pages in sliders.
+Just use ScrollNext in onPressed function for next page scrolling and ScrollBack for back page.
+A full example can be found in the examples.
+
+#### Features
+* Easy scrolling with built-in functions.
+* Make the pages with your desired no. of items
+* Animated Scrolling
 
 ## Getting Started
 
