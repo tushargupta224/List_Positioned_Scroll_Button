@@ -1,6 +1,8 @@
-#list_positioned_scroll_button
+# List_Positioned_Scroll_Button
 
 Control Scroll of Scrollable Positioned List with Next and Previous button in Flutter. Based on [scrollable_positioned_list](https://pub.dev/packages/scrollable_positioned_list).
+
+##Showcase
 
 ![image](flutter_list_positioned_scroll_button.gif)
 

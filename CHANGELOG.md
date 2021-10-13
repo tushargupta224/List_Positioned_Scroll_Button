@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Added Full Functionality to scroll next and back pages.
+
