@@ -38,7 +38,7 @@ Now, create your button for scroll to next/prev page and in OnPressed, add funct
 For Next Page Scroll,add ScrollNext() function and specify pageitemcount(no. of items of list in 
 one page):
 ```Dart
-ClipRRect(
+            ClipRRect(
                       borderRadius: BorderRadius.circular(20),
                       child: ElevatedButton(
                         onPressed: () {
@@ -63,7 +63,7 @@ ClipRRect(
 For Previous Page Scroll,add ScrollBack() function and specify pageitemcount(no. of items of list in
 one page):
 ```Dart
-ClipRRect(
+            ClipRRect(
                       borderRadius: BorderRadius.circular(20),
                       child: ElevatedButton(
                         onPressed: () {
